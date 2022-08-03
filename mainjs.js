@@ -9,8 +9,8 @@ var mainjs = function(){
 		},
 		audio: {
 			enable: true,
-			playURl: "http://www.imooc.com/upload/media/happy.wav",
-			cycleURL: "http://www.imooc.com/upload/media/circulation.wav"
+			playURl: "https://github.com/liuzhongkun1/WebTest/blob/master/video/xingchen.m4a",
+			cycleURL: "https://github.com/liuzhongkun1/WebTest/blob/master/video/xingchen.m4a"
 		},
 		setTime: {
 			walkToThird: 6000,
